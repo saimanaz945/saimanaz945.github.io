@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Saima Naz**, Junior Penetration Tester focused on web application security, reconnaissance and attack-surface mapping, with a growing interest in SecOps and DevSecOps.
 
-**Live site:** https://saimanaz945.github.io/saima-naz-portfolio/
+**Live site:** https://saimanaz945.github.io/
 
 ## About
 
